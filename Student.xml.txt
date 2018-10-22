@@ -1,0 +1,15 @@
+<StudentData>
+	<Student>
+		<Name>John</Name>
+		<Age>20</Age>
+		<Score>20</Score>
+	</Student>
+
+	<Student>
+		<Name>Sam</Name>
+		<Age>25</Age>
+		<Score>15</Score>
+	</Student>
+
+	
+</StudentData>
